@@ -2,15 +2,14 @@
 
 *Welcome to the Full stack developer challenge by Wildr*
 
-Copy the below link and bookmark on your laptop browser:        
-**kfuture2024.github.io**
-
 ## Prerequisites
 - Some details are essential for us to understand the level of understanding you already have. (We will also need your email ID for further communication)
-- [Please fill out this form before going further.](https://docs.google.com/forms/d/e/1FAIpQLScjRlK7ISRJX1UGDAutQKqCdBDxp5HrX7oN2zQS3lhVdfgoYQ/viewform?vc=0&c=0&w=1&flr=0)
+- [Please fill out this form before going further.](https://docs.google.com/forms/d/e/1FAIpQLScjRlK7ISRJX1UGDAutQKqCdBDxp5HrX7oN2zQS3lhVdfgoYQ/viewform?vc=0&c=0&w=1&flr=0)      
 
-
-You can navigate to the challenge by selecting a particular day of the challenge below:
+- Copy the below link and bookmark on your laptop browser:        
+**kfuture2024.github.io**
+  
+### You can navigate to the challenge by selecting a particular day of the challenge below:
 
 - [Day 1](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day1/README.md)
 - [Day 2](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day2/README.md)
