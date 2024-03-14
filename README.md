@@ -1,6 +1,4 @@
-# kfuture2024.github.io
-
-*Welcome to the Full stack developer challenge by Wildr*
+***Welcome to the Full stack developer challenge by Wildr***
 
 ## Prerequisites
 - Some details are essential for us to understand the level of understanding you already have. (We will also need your email ID for further communication)
