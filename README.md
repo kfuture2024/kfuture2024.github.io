@@ -3,8 +3,9 @@
 *Welcome to the Full stack developer challenge by Wildr*
 
 ## Prerequisites
-Please fill out the form before going further. [Click here](https://docs.google.com/forms/d/e/1FAIpQLScjRlK7ISRJX1UGDAutQKqCdBDxp5HrX7oN2zQS3lhVdfgoYQ/viewform?vc=0&c=0&w=1&flr=0)
-The above details are essential for us to understand the level of understanding you already have. (We will also need your email ID for further communication)
+- Some details are essential for us to understand the level of understanding you already have. (We will also need your email ID for further communication)
+- [Please fill out this form before going further.](https://docs.google.com/forms/d/e/1FAIpQLScjRlK7ISRJX1UGDAutQKqCdBDxp5HrX7oN2zQS3lhVdfgoYQ/viewform?vc=0&c=0&w=1&flr=0)
+
 
 You can navigate to the challenge by selecting a particular day of the challenge below:
 
