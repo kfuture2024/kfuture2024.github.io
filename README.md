@@ -6,6 +6,8 @@
 
 - Copy the below link and bookmark on your laptop browser:        
 **kfuture2024.github.io**
+
+- Join the community of full stack developement enthusiasts [here](https://wildr.com/invite/ioaN)
   
 ### You can navigate to the challenge by selecting a particular day of the challenge below:
 
